@@ -38,7 +38,7 @@ look at `<index.js>` in the root directory if you need to  be sure about server 
 
 <!-- Add contributors -->
 ## Contributors
-Thanks to the following people and school who have contributed to this repository
+Thanks to WebDevSimplified made by kyle, check his youtube channel.
 * kyle@webdevsimplified.com
 * https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
 
